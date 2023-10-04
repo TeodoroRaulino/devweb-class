@@ -90,6 +90,6 @@ const router = useRouter()
 - swr
 - axios
 
-## client vs server
-
 ## useContext
+- [Prop drilling](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context2](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context1)https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context1)
+- [context](https://www.w3schools.com/react/showreact.asp?filename=demo2_react_context2)
